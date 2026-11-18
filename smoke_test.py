@@ -1,3 +1,4 @@
+# Smoke test: builds the database and checks that WEATHER has rows.
 import sqlite3
 from build_db import build
 
